@@ -109,10 +109,8 @@ To verify that the downloaded executable has **not been modified or tampered wit
 please compare its SHA256 hash with the value below.
 
 WallpaperWorkshopDownloaderPro.exe
-SHA256: 64109c55eb7216ed219b3531f01d3e5c82534a3e31083e992fde27e34d365e11
 
-css
-코드 복사
+SHA256: 64109c55eb7216ed219b3531f01d3e5c82534a3e31083e992fde27e34d365e11
 
 If the hash matches, the file is confirmed to be **authentic and unaltered**.
 
