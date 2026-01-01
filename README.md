@@ -6,13 +6,9 @@ multi-threaded downloading, customizable themes, and a more refined workflow com
 It is suitable for users who want:
 
 🚀 Significantly faster download speeds
-
 📂 Direct access to Workshop wallpaper files
-
 🎨 A customizable UI experience
-
 🧳 A standalone, portable downloader without Steam dependency
-
 ⚠️ This project is intended for educational and personal use only.
 
 ✨ Key Features
@@ -28,25 +24,19 @@ to match their personal preferences.
 Supports:
 
 Full Workshop item URLs
-
 Raw Workshop item IDs
 
 📂 Automatic File Handling
 Automatically:
-
 Downloads wallpaper files
-
 Extracts archives
-
 Organizes output directories
 
 🧩 Refactored & Optimized Codebase
 Compared to the original project, this version features:
 
 Cleaner structure
-
 Improved readability
-
 Enhanced stability
 
 🧳 Portable Executable
@@ -62,9 +52,7 @@ Steam client is not required to be running
 
 🚀 How to Use
 Run WallpaperWorkshopDownloaderPro.exe
-
 Enter a Workshop item URL or ID
-
 (Optional) Select your preferred theme
 
 Click Download
@@ -76,15 +64,10 @@ This project is based on and derived from the following open-source repository:
 
 Original Repository
 https://github.com/SteamAutoCracks/WallpaperEngineWorkshopDownloader
-
 The original source code was used as a foundation and then significantly modified, including:
-
 Multi-threaded download implementation
-
 Code refactoring and cleanup
-
 UI improvements and theme support
-
 Packaging as a standalone executable
 
 All credit for the original implementation goes to the original author(s).
